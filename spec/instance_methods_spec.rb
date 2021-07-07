@@ -1,3 +1,5 @@
+
+
 describe 'Dog' do
   it 'is defined' do
     expect(defined?(Dog)).to be_truthy
